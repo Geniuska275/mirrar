@@ -1,10 +1,9 @@
 
-import Breadcrumb from "./components/breadcrumb";
-import Footer from "./components/footer";
-import Header from "./components/Header";
-import Navigation from "./components/Navigation";
+
+
+import Breadcrumb from "./components/Breadcrumb";
 import ProductGrid from "./components/product-grid";
-import ProductView from "./components/ProductQuick";
+
 import Sidebar from "./components/Sidebar";
 
 
