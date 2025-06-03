@@ -1,11 +1,11 @@
-"use client"
+
 
 import { useState } from "react"
 import { Heart, ChevronDown, ChevronUp } from "lucide-react"
-import Breadcrumb from "./breadcrumb"
-import ProductView from "./ProductQuick"
-import ProductCarousel from "./ProductCarousel"
+
+
 import { MdWhatsapp } from "react-icons/md";
+
 
 export default function ProductDetail() {
   const [isDescriptionOpen, setIsDescriptionOpen] = useState(false)
@@ -14,7 +14,7 @@ export default function ProductDetail() {
 
   return (
     <div>
-      <Breadcrumb />
+      {/* <Breadcrumb /> */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mx-[30px]">
         {/* Product Images */}
         <div className="space-y-6">

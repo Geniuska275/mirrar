@@ -1,4 +1,4 @@
-import { Phone, Mail, ArrowUp } from "lucide-react";
+import { Phone, Mail} from "lucide-react";
 import apple from "./apple.png";
 import google from "./google.png";
 import { MdWhatsapp } from "react-icons/md";

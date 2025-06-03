@@ -5,7 +5,7 @@ import Footer from './components/footer'
 import Header from './components/Header'
 import Navigation from './components/Navigation'
 import ProductDetail from './components/product-details'
-import ProductGrid from './components/product-grid'
+
 import Home from './page'
 import { BrowserRouter as Router,Routes,Route } from 'react-router-dom'
 
